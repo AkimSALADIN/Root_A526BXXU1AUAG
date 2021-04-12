@@ -6,7 +6,8 @@ Root_A526BXXU1AUAG
 This root is only tested on firmware A526BXXU1AUAG.
 Use at your own risk !
 
-I made that root because I tried to use EFTSU tools to root my A52 5G without success so I decide make this root and share it if you want to root your phone in simple way.
+I made that root because I tried to use [EFTSU tools](https://eftsu.com/) to root my A52 5G but without success.
+So I decide make this root and share it if you want to root your phone in simple way.
 
 ### What's you need ?
 
